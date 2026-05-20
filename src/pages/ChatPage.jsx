@@ -37,16 +37,16 @@ export function ChatPage() {
   };
 
   return (
-    <div className="flex flex-col h-full relative bg-white">
-      <div className="flex-1 overflow-y-auto p-4 md:p-6 lg:p-8 scroll-smooth">
-        <div className="max-w-4xl mx-auto">
+    <div className="flex flex-col h-full relative bg-transparent">
+      <div className="flex-1 overflow-y-auto scroll-smooth pb-4">
+        <div className="max-w-4xl mx-auto space-y-6">
           {messages.map((msg) => (
             <ChatMessage key={msg.id} message={msg} />
           ))}
           <div ref={messagesEndRef} />
         </div>
       </div>
-      <div className="sticky bottom-0 w-full bg-white z-10">
+      <div className="sticky bottom-0 w-full z-10 pt-4 bg-gradient-to-t from-[#0f172a] via-[#0f172a] to-transparent">
         <ChatInput onSend={handleSend} />
       </div>
     </div>

@@ -2,10 +2,10 @@ import { TrendingUp, Users, FileText, Bot, AlertCircle, MessageSquare } from 'lu
 
 export function Dashboard() {
   return (
-    <div className="p-6 lg:p-8 space-y-8 animate-in fade-in duration-500">
+    <div className="h-full flex flex-col gap-6">
       <div>
-        <h1 className="font-satoshi text-3xl font-bold mb-2">Welcome back, Admin</h1>
-        <p className="text-white/60">Here's what's happening with your AI Assistant today.</p>
+        <h1 className="text-2xl font-bold text-white mb-2">Welcome back, Admin</h1>
+        <p className="text-slate-400">Here's what's happening with your AI Assistant today.</p>
       </div>
 
       {/* Stats Grid */}
@@ -16,14 +16,14 @@ export function Dashboard() {
         <StatCard icon={Bot} label="AI Accuracy" value="98.2%" trend="+1.1%" />
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 flex-1">
         {/* Placeholder: AI Training Status */}
-        <div className="lg:col-span-2 bg-[var(--color-surface)]/50 border border-white/5 rounded-2xl p-6 backdrop-blur-sm">
+        <div className="lg:col-span-2 glass-panel border border-white/10 rounded-xl p-6 flex flex-col">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="font-satoshi text-xl font-semibold">AI Training Status</h2>
-            <button className="text-[var(--color-primary)] text-sm hover:underline cursor-pointer">View Details</button>
+            <h2 className="text-lg font-semibold text-white">AI Training Status</h2>
+            <button className="text-violet-400 text-sm hover:text-violet-300 transition-colors">View Details</button>
           </div>
-          <div className="space-y-4">
+          <div className="space-y-3 flex-1">
             <TrainingItem title="Return Policy 2026.pdf" status="Completed" date="Today, 09:41 AM" />
             <TrainingItem title="Spring Collection Catalog" status="Training..." date="Today, 08:30 AM" progress={65} />
             <TrainingItem title="Customer Support FAQs" status="Completed" date="Yesterday" />
@@ -31,11 +31,11 @@ export function Dashboard() {
         </div>
 
         {/* Placeholder: Recent Escalations */}
-        <div className="bg-[var(--color-surface)]/50 border border-white/5 rounded-2xl p-6 backdrop-blur-sm">
+        <div className="glass-panel border border-white/10 rounded-xl p-6 flex flex-col">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="font-satoshi text-xl font-semibold">Recent Escalations</h2>
+            <h2 className="text-lg font-semibold text-white">Recent Escalations</h2>
           </div>
-          <div className="space-y-4">
+          <div className="space-y-3 flex-1">
             <EscalationItem id="#4819" issue="Complex Refund Request" time="10m ago" />
             <EscalationItem id="#4818" issue="Bulk Order Discount" time="45m ago" />
             <EscalationItem id="#4815" issue="Shipping Address Error" time="2h ago" />
@@ -48,18 +48,18 @@ export function Dashboard() {
 
 function StatCard({ icon: Icon, label, value, trend, trendDown }) {
   return (
-    <div className="bg-[var(--color-surface)]/50 border border-white/5 rounded-2xl p-5 flex flex-col justify-between backdrop-blur-sm hover:border-white/10 transition-colors">
+    <div className="glass-panel border border-white/10 p-5 rounded-xl">
       <div className="flex items-center justify-between mb-4">
-        <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center">
-          <Icon size={20} className="text-white/70" />
+        <div className="w-10 h-10 rounded-xl bg-slate-800 flex items-center justify-center">
+          <Icon size={20} className="text-slate-300" />
         </div>
-        <span className={`text-xs font-medium px-2 py-1 rounded-full ${trendDown ? 'bg-red-500/10 text-red-400' : 'bg-emerald-500/10 text-emerald-400'}`}>
+        <span className={`text-xs font-medium px-2 py-1 rounded-full ${trendDown ? 'bg-rose-500/10 text-rose-400' : 'bg-emerald-500/10 text-emerald-400'}`}>
           {trend}
         </span>
       </div>
       <div>
-        <h3 className="text-white/60 text-sm font-medium mb-1">{label}</h3>
-        <p className="font-satoshi text-2xl font-bold">{value}</p>
+        <h3 className="text-slate-400 text-sm font-medium mb-1">{label}</h3>
+        <p className="text-2xl font-bold text-white">{value}</p>
       </div>
     </div>
   );
@@ -67,14 +67,14 @@ function StatCard({ icon: Icon, label, value, trend, trendDown }) {
 
 function TrainingItem({ title, status, date, progress }) {
   return (
-    <div className="flex items-center justify-between p-4 rounded-xl bg-white/5 border border-white/5">
-      <div className="flex items-center gap-4">
-        <div className="w-10 h-10 rounded-lg bg-[var(--color-primary)]/10 text-[var(--color-primary)] flex items-center justify-center">
+    <div className="flex items-center justify-between p-3 rounded-lg bg-slate-800/50 border border-white/5 hover:bg-slate-800 transition-colors">
+      <div className="flex items-center gap-3">
+        <div className="w-10 h-10 rounded-lg bg-violet-500/20 text-violet-400 flex items-center justify-center">
           <FileText size={20} />
         </div>
         <div>
-          <p className="font-medium text-sm">{title}</p>
-          <p className="text-xs text-white/50">{date}</p>
+          <p className="font-medium text-sm text-white">{title}</p>
+          <p className="text-xs text-slate-400">{date}</p>
         </div>
       </div>
       <div className="text-right flex flex-col items-end">
@@ -82,8 +82,8 @@ function TrainingItem({ title, status, date, progress }) {
           {status}
         </span>
         {progress && (
-          <div className="w-24 h-1.5 bg-white/10 rounded-full mt-2 overflow-hidden">
-            <div className="h-full bg-[var(--color-primary)] rounded-full" style={{ width: `${progress}%` }}></div>
+          <div className="w-24 h-1.5 bg-slate-700 rounded-full mt-2 overflow-hidden">
+            <div className="h-full bg-violet-500 rounded-full" style={{ width: `${progress}%` }}></div>
           </div>
         )}
       </div>
@@ -93,15 +93,15 @@ function TrainingItem({ title, status, date, progress }) {
 
 function EscalationItem({ id, issue, time }) {
   return (
-    <div className="flex items-start gap-3 p-3 rounded-xl hover:bg-white/5 transition-colors cursor-pointer border border-transparent hover:border-white/5">
+    <div className="flex items-start gap-3 p-3 rounded-lg hover:bg-slate-800/80 transition-colors cursor-pointer border border-transparent hover:border-white/5">
       <div className="mt-0.5">
         <AlertCircle size={16} className="text-amber-400" />
       </div>
       <div>
-        <p className="text-sm font-medium flex items-center gap-2">
-          {issue} <span className="text-xs text-white/40">{id}</span>
+        <p className="text-sm font-medium flex items-center gap-2 text-white">
+          {issue} <span className="text-xs text-slate-500">{id}</span>
         </p>
-        <p className="text-xs text-white/50">{time}</p>
+        <p className="text-xs text-slate-400">{time}</p>
       </div>
     </div>
   );
