@@ -1,7 +1,26 @@
+import { useNavigate } from 'react-router-dom';
 import RoleSwitcher from '../ui/RoleSwitcher';
 import { Bell, Search, Menu } from 'lucide-react';
+import { useRole } from '../../App';
 
 const Navbar = ({ toggleSidebar }) => {
+  const navigate = useNavigate();
+  const { setRole } = useRole();
+  const token = typeof window !== 'undefined' ? sessionStorage.getItem('token') : null;
+  const userEmail = typeof window !== 'undefined' ? sessionStorage.getItem('userEmail') : null;
+
+  const handleAuthClick = () => {
+    if (token) {
+      sessionStorage.removeItem('token');
+      sessionStorage.removeItem('userRole');
+      sessionStorage.removeItem('userEmail');
+      setRole('user');
+      navigate('/login');
+      return;
+    }
+    navigate('/login');
+  };
+
   return (
     <header className="h-16 border-b border-border bg-white/80 backdrop-blur-md flex items-center justify-between px-4 lg:px-8 sticky top-0 z-10 shrink-0 shadow-sm">
       <div className="flex items-center gap-4 flex-1">
@@ -29,13 +48,25 @@ const Navbar = ({ toggleSidebar }) => {
           <span className="absolute top-1.5 right-1.5 w-2 h-2 bg-red-500 rounded-full border border-white"></span>
         </button>
         <div className="h-6 w-px bg-border mx-1 hidden sm:block"></div>
+        <button
+          onClick={handleAuthClick}
+          className="px-3 py-2 rounded-full border border-border bg-white text-sm text-text-secondary hover:bg-slate-100 transition-colors hidden sm:inline-flex"
+        >
+          {token ? 'Logout' : 'Login'}
+        </button>
         <RoleSwitcher />
         <div className="w-9 h-9 rounded-full bg-gradient-to-tr from-primary to-blue-400 p-0.5 shadow-sm shrink-0">
-          <img 
-            src="https://api.dicebear.com/7.x/notionists/svg?seed=Felix&backgroundColor=transparent" 
-            alt="Profile" 
-            className="w-full h-full rounded-full object-cover bg-white"
-          />
+          {userEmail ? (
+            <div className="w-full h-full rounded-full bg-white flex items-center justify-center text-sm font-semibold text-slate-800">
+              {userEmail.charAt(0).toUpperCase()}
+            </div>
+          ) : (
+            <img 
+              src="https://api.dicebear.com/7.x/notionists/svg?seed=Felix&backgroundColor=transparent" 
+              alt="Profile" 
+              className="w-full h-full rounded-full object-cover bg-white"
+            />
+          )}
         </div>
       </div>
     </header>

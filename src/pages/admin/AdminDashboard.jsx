@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { 
   FileText, Users, Activity, Target, MessageSquare, 
-  ArrowUpRight, ArrowDownRight, MoreHorizontal 
+  ArrowUpRight, ArrowDownRight, MoreHorizontal, User
 } from 'lucide-react';
 import { fakeStats, fakeConversations } from '../../data/fakeData';
 

@@ -1,8 +1,11 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import { useState, createContext, useContext } from 'react';
+import { useState, useEffect, createContext, useContext } from 'react';
 
 // Layout
 import MainLayout from './components/layout/MainLayout';
+
+// Pages
+import Login from './pages/Login';
 
 // User Pages
 import UserLanding from './pages/user/UserLanding';
@@ -25,15 +28,37 @@ export const RoleContext = createContext();
 
 export const useRole = () => useContext(RoleContext);
 
+// Protected Route Component to secure dashboard access
+function ProtectedRoute({ children }) {
+  const token = sessionStorage.getItem('token');
+  if (!token) {
+    return <Navigate to="/login" replace />;
+  }
+  return children;
+}
+
 function App() {
   const [role, setRole] = useState('user'); // 'user' or 'admin'
+
+  useEffect(() => {
+    const storedRole = sessionStorage.getItem('userRole');
+    if (storedRole === 'admin' || storedRole === 'user') {
+      setRole(storedRole);
+    }
+  }, []);
 
   return (
     <RoleContext.Provider value={{ role, setRole }}>
       <BrowserRouter>
         <Routes>
-          {/* Main Layout Wraps Everything */}
-          <Route path="/" element={<MainLayout />}>
+          <Route path="/login" element={<Login />} />
+
+          {/* Main Layout Wraps Everything, protected by auth */}
+          <Route path="/" element={
+            <ProtectedRoute>
+              <MainLayout />
+            </ProtectedRoute>
+          }>
             {/* User Routes */}
             <Route index element={role === 'admin' ? <Navigate to="/admin" /> : <UserLanding />} />
             <Route path="chat" element={role === 'admin' ? <Navigate to="/admin" /> : <ChatbotPage />} />
@@ -53,6 +78,8 @@ function App() {
             {/* Shared Route */}
             <Route path="settings" element={<SettingsPage />} />
           </Route>
+
+          <Route path="*" element={<Navigate to="/login" replace />} />
         </Routes>
       </BrowserRouter>
     </RoleContext.Provider>

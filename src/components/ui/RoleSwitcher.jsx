@@ -7,9 +7,17 @@ const RoleSwitcher = () => {
   const { role, setRole } = useRole();
   const navigate = useNavigate();
 
+  const actualRole = typeof window !== 'undefined' ? sessionStorage.getItem('userRole') : null;
+
+  // If the logged-in user is not a verified admin, hide the role switcher entirely
+  if (actualRole !== 'admin') {
+    return null;
+  }
+
   const toggleRole = () => {
     const newRole = role === 'user' ? 'admin' : 'user';
     setRole(newRole);
+    sessionStorage.setItem('userRole', newRole);
     if (newRole === 'admin') {
       navigate('/admin');
     } else {

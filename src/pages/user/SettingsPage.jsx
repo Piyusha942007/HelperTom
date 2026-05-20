@@ -1,10 +1,48 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { User, ShieldCheck, Plus, MoreHorizontal, X } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 
 const SettingsPage = () => {
   const [activeTab, setActiveTab] = useState('profile');
+  const [profile, setProfile] = useState({ fullName: '', username: '', email: '' });
+  const [draftProfile, setDraftProfile] = useState({ fullName: '', username: '', email: '' });
+  const [editing, setEditing] = useState(false);
+
+  useEffect(() => {
+    const email = typeof window !== 'undefined' ? sessionStorage.getItem('userEmail') : null;
+    if (!email) return;
+    const key = `profile_${email}`;
+    const stored = typeof window !== 'undefined' ? localStorage.getItem(key) : null;
+    let loadedProfile;
+    if (stored) {
+      try {
+        loadedProfile = JSON.parse(stored);
+      } catch (e) {
+        loadedProfile = null;
+      }
+    }
+    if (!loadedProfile) {
+      const prefix = email.split('@')[0] || '';
+      const capitalized = prefix.charAt(0).toUpperCase() + prefix.slice(1);
+      loadedProfile = { fullName: capitalized, username: prefix, email };
+    }
+    setProfile(loadedProfile);
+    setDraftProfile(loadedProfile);
+  }, []);
+
+  const saveProfile = (newProfile) => {
+    const key = `profile_${newProfile.email}`;
+    localStorage.setItem(key, JSON.stringify(newProfile));
+    setProfile(newProfile);
+    setDraftProfile(newProfile);
+    setEditing(false);
+  };
+
+  const cancelEdit = () => {
+    setDraftProfile(profile);
+    setEditing(false);
+  };
   const navigate = useNavigate();
 
   return (
@@ -70,24 +108,71 @@ const SettingsPage = () => {
 
               <div className="divide-y divide-slate-100 border-t border-slate-100">
                 {/* Profile Row */}
-                <div className="py-6 flex flex-col md:flex-row md:items-center justify-between gap-4 group">
-                  <div className="text-sm font-semibold text-slate-700 w-48 shrink-0">Profile</div>
-                  <div className="flex-1 flex items-center gap-4">
+                <div className="py-6 flex flex-col gap-6 group">
+                  <div className="flex items-start gap-4">
                     <div className="w-12 h-12 bg-pink-700 text-white rounded-full flex items-center justify-center text-xl font-medium shrink-0">
-                      A
+                      {profile.fullName ? profile.fullName.charAt(0).toUpperCase() : 'U'}
                     </div>
-                    <span className="text-sm font-medium text-slate-900">Anvi Sharma</span>
+                    <div>
+                      <div className="text-sm font-semibold text-slate-700">{profile.fullName}</div>
+                      <div className="text-sm text-slate-500">{profile.username}</div>
+                    </div>
                   </div>
-                  <button className="text-sm font-medium text-slate-600 hover:text-slate-900">Update Profile</button>
+
+                  {!editing ? (
+                    <button onClick={() => setEditing(true)} className="w-fit px-4 py-2 rounded-lg bg-slate-100 text-slate-700 font-medium hover:bg-slate-200 transition-colors">
+                      Edit Profile
+                    </button>
+                  ) : (
+                    <div className="grid gap-4">
+                      <div>
+                        <label className="block text-xs font-semibold text-slate-500 uppercase tracking-[0.2em] mb-2">Full Name</label>
+                        <input
+                          value={draftProfile.fullName}
+                          onChange={(e) => setDraftProfile(prev => ({ ...prev, fullName: e.target.value }))}
+                          className="w-full rounded-2xl border border-slate-200 px-4 py-3 text-sm text-slate-900 focus:outline-none focus:border-slate-400"
+                        />
+                      </div>
+                      <div>
+                        <label className="block text-xs font-semibold text-slate-500 uppercase tracking-[0.2em] mb-2">Username</label>
+                        <input
+                          value={draftProfile.username}
+                          onChange={(e) => setDraftProfile(prev => ({ ...prev, username: e.target.value }))}
+                          className="w-full rounded-2xl border border-slate-200 px-4 py-3 text-sm text-slate-900 focus:outline-none focus:border-slate-400"
+                        />
+                      </div>
+                      <div>
+                        <label className="block text-xs font-semibold text-slate-500 uppercase tracking-[0.2em] mb-2">Email</label>
+                        <input
+                          value={draftProfile.email}
+                          disabled
+                          className="w-full rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm text-slate-500"
+                        />
+                      </div>
+                      <div className="flex items-center gap-3">
+                        <button
+                          onClick={() => saveProfile(draftProfile)}
+                          className="px-4 py-3 rounded-2xl bg-emerald-600 text-white font-semibold hover:bg-emerald-500 transition-colors"
+                        >
+                          Save Profile
+                        </button>
+                        <button
+                          onClick={cancelEdit}
+                          className="px-4 py-3 rounded-2xl border border-slate-200 text-slate-600 hover:bg-slate-100 transition-colors"
+                        >
+                          Cancel
+                        </button>
+                      </div>
+                    </div>
+                  )}
                 </div>
 
                 {/* Username Row */}
                 <div className="py-6 flex flex-col md:flex-row md:items-center justify-between gap-4 group">
-                  <div className="text-sm font-semibold text-slate-700 w-48 shrink-0">Username</div>
+                  <div className="text-sm font-semibold text-slate-700 w-48 shrink-0">Email Address</div>
                   <div className="flex-1 flex items-center gap-4">
-                    <span className="text-sm text-slate-900">avmwahh</span>
+                    <span className="text-sm text-slate-900">{profile.email}</span>
                   </div>
-                  <button className="text-sm font-medium text-slate-600 hover:text-slate-900">Update Username</button>
                 </div>
 
                 {/* Email Addresses Row */}
@@ -96,9 +181,9 @@ const SettingsPage = () => {
                   <div className="flex-1 flex flex-col gap-4">
                     <div className="flex items-center justify-between">
                       <div className="flex items-center gap-2">
-                        <span className="text-sm text-slate-900">theanvisharma@gmail.com</span>
-                        <span className="px-2 py-0.5 bg-slate-100 text-slate-600 text-[11px] font-semibold rounded-md border border-slate-200">Primary</span>
-                      </div>
+                          <span className="text-sm text-slate-900">{profile.email}</span>
+                          <span className="px-2 py-0.5 bg-slate-100 text-slate-600 text-[11px] font-semibold rounded-md border border-slate-200">Primary</span>
+                        </div>
                       <button className="text-slate-400 hover:text-slate-600">
                         <MoreHorizontal size={18} />
                       </button>
