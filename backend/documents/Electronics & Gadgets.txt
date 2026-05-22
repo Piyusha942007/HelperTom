@@ -1,0 +1,284 @@
+============================================
+CATEGORY: ELECTRONICS & GADGETS
+POLICIES & FAQ
+HelperTom E-Commerce Platform
+============================================
+
+----------------------------------------------
+SECTION 1: RETURNS & REPLACEMENT POLICY
+----------------------------------------------
+
+1.1 Return Window
+- All Electronics & Gadgets purchased from HelperTom come with a 7-day replacement guarantee from the date of delivery.
+- This category operates on a "Replacement Only" model. Monetary refunds are not provided unless the replacement product is out of stock, discontinued, or cannot be sourced within 10 business days.
+- The 7-day window is strictly enforced; requests made after this period will not be entertained under the return policy and must be routed through the manufacturer's warranty process.
+
+1.2 Eligible Reasons for Replacement
+- Dead on Arrival (DOA): Product does not power on or function upon first use.
+- Manufacturing Defect: Physical damage, malfunctioning components, or performance issues present at the time of unboxing.
+- Wrong Product Delivered: Color, model, variant, or capacity differs from the order.
+- Missing Parts/Accessories: Charger, cable, manual, ear tips, or other in-box accessories are missing upon unboxing.
+- Physical Damage in Transit: Dents, cracks, broken screens, or liquid damage evident at delivery.
+- Software/Hardware Malfunction: System crashes, boot loops, or hardware failures confirmed within 7 days.
+
+1.3 Non-Eligible Reasons for Replacement
+- "I don't like the color/design" or buyer's remorse.
+- Compatibility issues with non-standard third-party accessories.
+- Physical damage caused by the customer after delivery (drops, liquid spills, power surges).
+- Damage caused by unauthorized repairs, rooting, jailbreaking, or software modification.
+- Missing freebies or bundled offers (unless part of the original sealed box).
+- Battery degradation due to normal usage patterns within the return window.
+- Devices where manufacturer seals have been tampered with or broken.
+
+1.4 Condition for Replacement
+- The product must be returned in its original, undamaged packaging including all accessories (charger, cable, manual, warranty card, etc.).
+- All serial numbers and IMEI numbers must match the original product shipped.
+- Products with activated software, logged-in accounts (iCloud, Google, Samsung accounts), or enabled security locks (Find My Device, Activation Lock) must have all such protections fully disabled and accounts removed before returning.
+- Factory reset must be performed, and all personal data wiped prior to return.
+- Products with screen guards, skins, or third-party accessories applied will not be accepted.
+
+1.5 Replacement Process
+- Step 1: Customer raises a replacement request via the HelperTom app or website within 7 days of delivery.
+- Step 2: Troubleshooting call: For select high-value items, a technical support executive may call to verify the defect and attempt remote resolution before approving the pickup.
+- Step 3: A return pickup is scheduled. The item is collected from the customer's address.
+- Step 4: The product undergoes a technical quality check at our service center (2-4 business days).
+- Step 5: Upon confirmation of the defect:
+  - A brand-new replacement unit is shipped within 2-3 business days.
+  - If the exact model is out of stock, a refund to the original payment method is processed within 5-7 business days.
+- Step 6: If the product passes the quality check (no defect found), it is returned to the customer with an inspection report. Return shipping charges may apply in such cases.
+
+1.6 Serial Number and IMEI Verification
+- All electronics are tracked via unique serial numbers and/or IMEI numbers at the warehouse.
+- Any mismatch between the returned product's serial number/IMEI and the original shipment record will result in rejection of the replacement request and potential legal action.
+- Customers are advised to verify the serial number on the product, box, and invoice upon delivery.
+
+1.7 Open-Box Delivery (Select Products)
+- For high-value electronics (laptops, premium smartphones, tablets, gaming consoles), HelperTom offers Open-Box Delivery in select pin codes.
+- The delivery agent opens the package in the customer's presence, verifies the physical condition of the product, and ensures all accessories are present.
+- If a defect is identified during Open-Box Delivery, the product is immediately taken back, and a replacement or refund is initiated on the spot.
+- If the customer accepts the product after inspection, standard replacement policy terms apply thereafter.
+
+1.8 Non-Returnable/Non-Replaceable Electronics
+The following electronics items are not eligible for return or replacement once delivered (except in case of transit damage or DOA):
+- Software, digital subscriptions, activation keys, and license codes that have been revealed or activated.
+- Printer ink cartridges and toner cartridges with opened seals.
+- Batteries and power banks with broken seal.
+- Screen protectors, tempered glass, and phone cases (once opened).
+- Consumables: blank media (CDs, DVDs, Blu-rays), film, and photographic paper.
+- Headphones, earphones, and earbuds (due to hygiene concerns, unless defective).
+- VR headsets and wearable devices that contact skin directly (unless defective).
+
+----------------------------------------------
+SECTION 2: WARRANTY POLICY
+----------------------------------------------
+
+2.1 Manufacturer Warranty
+- All Electronics & Gadgets come with the standard manufacturer's warranty as specified on the product page and invoice.
+- Warranty periods vary by product type and brand:
+  - Smartphones, Tablets, Laptops: Typically 12 months
+  - Audio Devices (Headphones, Speakers): Typically 6-12 months
+  - Wearables (Smartwatches, Fitness Bands): Typically 12 months
+  - Cameras and Lenses: Typically 12-24 months
+  - Gaming Consoles: Typically 12 months
+  - Computer Peripherals (Keyboard, Mouse, Webcam): Typically 12-36 months
+  - Small Appliances (Trimmers, Shavers, Hair Dryers): Typically 12-24 months
+
+2.2 Warranty Coverage
+The manufacturer's warranty typically covers:
+- Manufacturing defects in materials and workmanship.
+- Hardware malfunctions not caused by external factors.
+- Battery defects (depending on brand policy; usually covers batteries that retain less than 80% capacity within the warranty period).
+
+2.3 Warranty Exclusions
+The warranty does not cover:
+- Physical damage from drops, impacts, or accidents.
+- Liquid damage, water ingress, or moisture corrosion.
+- Damage from power surges, incorrect voltage usage, or electrical storms.
+- Normal wear and tear, cosmetic damage (scratches, dents, paint peeling).
+- Damage from use with non-standard or faulty third-party accessories.
+- Unauthorized repairs, modifications, or opening of the device.
+- Loss of data; customers are responsible for backing up data before service.
+- Software issues, viruses, or performance degradation due to third-party applications.
+- Consumable parts (batteries after their rated cycle life, ear tips, cables).
+- Products with altered, defaced, or removed serial numbers.
+
+2.4 Warranty Claim Process
+- Step 1: Locate the warranty card or check the product page for the brand's authorized service center list.
+- Step 2: Contact the brand's customer support directly or visit an authorized service center with the product, invoice, and warranty card.
+- Step 3: HelperTom provides doorstep warranty support for select premium brands. Check the product page for "HelperTom Warranty" eligibility.
+- Step 4: If the brand's service center is inaccessible in your location, contact HelperTom support; we will facilitate shipping to the nearest center (charges may apply post-warranty return window).
+
+2.5 Extended Warranty and Protection Plans
+- HelperTom offers optional extended warranty and accidental damage protection plans for select products.
+- These plans must be purchased at the time of ordering or within the return window.
+- Terms, coverage limits, and claim procedures are detailed in the plan document delivered via email post-purchase.
+
+----------------------------------------------
+SECTION 3: CANCELLATION POLICY
+----------------------------------------------
+
+3.1 Cancellation Window
+- Electronics orders can be cancelled before the order moves to "Packed" status.
+- Cancellation is typically available within 30-60 minutes of order placement.
+- Once an order is packed or shipped, cancellation is no longer possible, and the replacement policy applies upon delivery.
+
+3.2 Bulk and B2B Orders
+- Bulk orders of electronics (5+ units of the same SKU) are non-cancellable once payment is confirmed.
+- B2B orders may have separate terms agreed upon at the time of quotation.
+
+----------------------------------------------
+SECTION 4: SHIPPING AND DELIVERY
+----------------------------------------------
+
+4.1 Delivery Timelines
+- Standard Delivery: 3-7 business days for most electronics, depending on stock location and pin code.
+- Priority Delivery (select products): 1-2 business days in eligible metro pin codes, with additional charges.
+- Pre-order and newly launched products have separate shipping timelines mentioned on the product page.
+
+4.2 Shipping Charges
+- Free standard shipping on all electronics orders above INR 999.
+- Orders below INR 999: Flat shipping fee of INR 79-149 based on product weight and delivery location.
+- Priority delivery charges vary and are displayed at checkout.
+
+4.3 Insurance and Safe Transit
+- All electronics shipments are insured against loss and transit damage.
+- Customers are advised to record an unboxing video showing the package seal, shipping label, and product condition. This serves as crucial evidence in case of transit damage claims.
+
+----------------------------------------------
+SECTION 5: REFUND POLICY
+----------------------------------------------
+
+5.1 Refund Eligibility
+- Refunds are issued only when:
+  - A replacement unit for a defective product cannot be sourced.
+  - The customer explicitly opts for a refund when eligible (subject to product-specific terms).
+  - An order is cancelled within the allowed window.
+  - The delivered product is substantially different from the description and a suitable replacement is unavailable.
+
+5.2 Refund Timelines
+- Prepaid Orders (Credit/Debit Card, Net Banking, UPI): Refund to source within 5-10 business days after approval.
+- Wallet Payments: Refund to wallet within 24 hours of approval.
+- Cash on Delivery: Refund via bank transfer within 5-7 business days after bank account details are verified and submitted.
+- EMI Transactions: Refund to the card/account; EMI cancellation charges may apply per the issuing bank's policy. Interest paid is non-refundable.
+
+5.3 Deductions
+- For refunds due to buyer's remorse (where applicable), return shipping and restocking fees (up to 10% of product value) may be deducted.
+- No deductions apply for refunds due to seller error (defective/wrong item).
+
+----------------------------------------------
+SECTION 6: SPECIAL CATEGORY NOTES
+----------------------------------------------
+
+6.1 Smartphones and Tablets
+- Devices must be factory reset with all accounts removed (Google, Samsung, Xiaomi, Apple ID, etc.).
+- Activation Lock or Find My Device must be disabled. Devices locked to an account will be rejected and returned.
+- Physical SIM trays, SD card trays, and styluses (S Pen, Apple Pencil) must be returned with the device.
+- Replacement units ship only after the original device passes the service center quality check.
+
+6.2 Laptops and Desktops
+- Pre-installed operating systems and software licenses are tied to the hardware. Do not remove license stickers.
+- Custom-configured desktops or laptops with upgraded RAM/storage by the seller follow the same replacement policy unless custom parts are independently warranted.
+- Data backup is entirely the customer's responsibility. HelperTom is not liable for any data loss during the replacement process.
+
+6.3 Cameras and Photography Equipment
+- DSLR, Mirrorless cameras, and lenses must be returned with body caps, lens caps, battery, charger, strap, and all original accessories.
+- Shutter count is recorded for camera bodies at dispatch. A significant increase in shutter count beyond initial unboxing testing (typically 50-100 actuations) may lead to rejection.
+- Lenses must be free of dust, fungus, scratches, and fingerprints.
+
+6.4 Audio Devices (Headphones, Earphones, Speakers)
+- In-ear and over-ear headphones are non-returnable for hygiene reasons unless there is a confirmed manufacturing defect.
+- Bluetooth pairing issues are often resolvable via troubleshooting; a support call will be attempted before processing a replacement.
+- Sound quality preference (bass/treble profile) is not considered a defect.
+
+6.5 Wearables (Smartwatches, Fitness Bands)
+- Skin irritation claims require medical documentation to be considered for replacement.
+- Battery life variation from advertised figures is not a defect unless the deviation is extreme (e.g., less than 30% of advertised life).
+- Straps and bands are considered accessories and are not covered under the main device warranty unless defective at delivery.
+
+6.6 Gaming Consoles and Accessories
+- Console bundles with digital game codes: If the digital code has been redeemed, the entire bundle becomes non-returnable.
+- Controllers with stick drift issues are covered under warranty; within the 7-day window, replacement is offered.
+- Physical game discs and cartridges: Returnable within 7 days only if unopened/sealed.
+
+----------------------------------------------
+SECTION 7: ELECTRONICS & GADGETS FAQ
+----------------------------------------------
+
+Q1: I received my smartphone, but it won't turn on. What should I do?
+A: This falls under Dead on Arrival (DOA). Immediately report it via the app/website within 7 days. Ensure the device has been charged for at least 30 minutes using the original charger before concluding it's dead. Our team will arrange a pickup and ship a replacement after verification.
+
+Q2: Can I return a laptop if I don't like the keyboard feel or trackpad sensitivity?
+A: No. The Electronics & Gadgets category operates on a Replacement Only model for genuine defects only. Keyboard feel and trackpad sensitivity are subjective preferences and are not considered defects. We recommend researching the product thoroughly before purchase.
+
+Q3: I bought wireless earbuds, but they keep disconnecting from my phone. Is this eligible for replacement?
+A: Connection issues may be due to interference, device compatibility, or firmware. We will first schedule a technical troubleshooting call to diagnose the issue. If the problem persists after troubleshooting and is confirmed as a hardware defect, a replacement will be issued.
+
+Q4: My new tablet has a dead pixel on the screen. Is this covered?
+A: A single dead pixel may not qualify for replacement depending on the manufacturer's dead pixel policy (some require a minimum of 3-5 dead pixels or pixels in the central viewing area). Report the issue with clear photographs. Our team will evaluate based on the brand's specific policy.
+
+Q5: How do I claim warranty for my laptop after the 7-day return window is over?
+A: After 7 days, all issues are handled under the manufacturer's warranty. Visit the brand's website to locate the nearest authorized service center, or check if your product is eligible for HelperTom's facilitated warranty service. You will need the original invoice (available in your HelperTom account) and the product's serial number.
+
+Q6: I ordered a 256GB phone but received the 128GB variant. What happens now?
+A: Raise a "Wrong Product Delivered" request within 7 days. We will verify based on the order record and IMEI scan. Upon confirmation, we will arrange a free replacement for the correct variant. If the 256GB variant is out of stock, a full refund will be issued.
+
+Q7: Can I open the box and test the product before accepting delivery?
+A: For select high-value electronics (premium phones, laptops, TVs, gaming consoles) in eligible pin codes, we offer Open-Box Delivery where the delivery agent opens the package for a physical condition check before acceptance. For standard deliveries, you cannot open the sealed box before accepting; instead, record a complete unboxing video for your protection.
+
+Q8: I forgot to remove my Google account from my phone before returning it. What will happen?
+A: The device will fail the inspection and be returned to you. All personal accounts, screen locks, and activation locks must be removed before the pickup. Please factory reset the device and ensure no "Find My Device" or "Activation Lock" features are active.
+
+Q9: The charger that came with my phone is not working. Do I have to return the entire phone?
+A: If only the charger is defective, report it under "Missing/Damaged Accessories." In many cases, we can replace just the charger if stock permits. If not, the entire product set (phone + accessories) must be returned for a full replacement.
+
+Q10: How long does the quality check take for electronic items?
+A: Quality checks for electronics typically take 2-4 business days from the date of pickup. For complex issues (e.g., intermittent faults), it may extend to 5-7 business days. You can track the status in real-time via the HelperTom app.
+
+Q11: I bought a smartwatch, but it's causing a skin rash. Can I return it?
+A: If you experience a skin reaction, stop using the watch immediately. Raise a request within 7 days, and our support team will ask for photographic evidence and possibly a medical certificate. Based on evaluation, a replacement with a different strap material or a refund may be offered.
+
+Q12: What if the replacement unit I receive is also defective?
+A: If the replacement unit is also defective, you are eligible for a full refund to the original payment method. Report the issue within 7 days of receiving the replacement. Do not wait beyond the window.
+
+Q13: My power bank stopped charging after one use. Is it covered?
+A: Yes, if reported within the 7-day replacement window. After 7 days, check if the power bank carries a manufacturer's warranty (typically 6 months). Power banks with broken seals are non-returnable, so do not discard the packaging immediately.
+
+Q14: Can I replace a gaming console if I don't like the user interface?
+A: No. User interface preference is not a valid reason for replacement. Replacement is only for hardware defects, DOA, or wrong product delivery.
+
+Q15: What happens if my electronic item is lost in transit during the return?
+A: If the pickup was arranged by HelperTom and the tracking shows it's lost, we will process your replacement or refund without waiting for the item to arrive. If you self-shipped, retain the courier receipt and we will work with the courier to locate the package or initiate a claim.
+
+Q16: I bought a DSLR camera. Can I return it if I find dust inside the lens?
+A: If dust is present inside the lens upon unboxing, raise a defect claim within 7 days with clear photographs showing the dust particles. Lenses are inspected for such issues before shipping. External dust or dust entering after usage is not covered.
+
+Q17: Do I need to keep the original box and accessories even after the return window?
+A: It is highly recommended to keep all original packaging, accessories, and documentation until the manufacturer's warranty period ends. Many brand service centers require the original box and invoice for warranty claims.
+
+Q18: Can I get a refund instead of a replacement for a defective electronic item?
+A: Refunds are provided only if the exact replacement model is out of stock, discontinued, or cannot be sourced within 10 business days. If stock is available, a replacement is mandatory as per policy.
+
+Q19: I ordered a laptop with Windows pre-installed. After resetting, the license is not activating. What do I do?
+A: Windows licenses for pre-installed laptops are embedded in the BIOS. A factory reset should automatically reactivate Windows when connected to the internet. If it fails, contact the manufacturer's support with your laptop's serial number. If the issue persists and is confirmed as a license defect within 7 days, raise a replacement request.
+
+Q20: What is the policy on import models or international variants of electronics sold on HelperTom?
+A: Product listings clearly state if an item is an "India Model" with manufacturer warranty or an "Import Model" with seller warranty. Import models are covered by seller warranty only (duration specified on the product page) and are not serviceable at brand-authorized centers.
+
+Q21: I received my tablet, and the screen has noticeable backlight bleeding. Is this a defect?
+A: Some degree of backlight bleeding is common in LCD panels and is not always considered a defect. If the bleeding is excessive and visible during normal content viewing (not just a black screen in a dark room), report it with photographs. Our quality team will evaluate against manufacturer tolerance standards.
+
+Q22: Can I return a USB cable or wall charger if it doesn't fast-charge my phone as expected?
+A: Fast charging depends on compatibility between the charger, cable, and device. If the charger and cable specifications match your device's fast-charging protocol (e.g., Qualcomm Quick Charge, USB-PD, VOOC) and it still doesn't work, report within 7 days for a replacement. Incompatibility due to mismatched protocols is not a defect.
+
+Q23: My new printer is printing with streaks. What should I do?
+A: Streaky prints can be due to clogged nozzles, alignment issues, or defective cartridges. Run the printer's built-in cleaning and alignment utility. If the problem persists, raise a replacement request within 7 days. For cartridge-only issues, the cartridge alone may be replaced without returning the entire printer.
+
+Q24: What is the policy for extended warranty and accidental damage plans purchased with electronics?
+A: Extended warranty plans extend the manufacturer's coverage period by an additional 1-2 years. Accidental damage plans cover drops, spills, and screen damage once per year with a nominal service fee. Full terms, claim procedures, and service fee details are emailed post-purchase and available in the "My Plans" section of your account.
+
+Q25: Can I exchange my electronic item for a different model or higher variant by paying the difference?
+A: No. The Electronics & Gadgets category does not support exchanges for different models or upgrades. You can only receive a replacement of the exact same model and variant.
+
+----------------------------------------------
+END OF DOCUMENT: ELECTRONICS & GADGETS
+==============================================

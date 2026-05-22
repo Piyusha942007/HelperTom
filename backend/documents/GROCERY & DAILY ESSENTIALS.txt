@@ -1,0 +1,280 @@
+============================================
+CATEGORY: GROCERY & DAILY ESSENTIALS
+POLICIES & FAQ
+HelperTom E-Commerce Platform
+============================================
+
+----------------------------------------------
+SECTION 1: RETURNS & REFUND POLICY
+----------------------------------------------
+
+1.1 Return Window
+- Fresh Produce (Fruits, Vegetables, Dairy, Meat, Fish, Eggs): 24 hours from the time of delivery.
+- Packaged Food and Beverages: 7 days from the date of delivery.
+- Daily Essentials (Toiletries, Cleaning Supplies, Household Items): 7 days from the date of delivery.
+- Frozen Foods and Ice Creams: Non-returnable once the cold chain seal is broken or temperature integrity is compromised.
+- Baby Food and Infant Formula: Non-returnable once the safety seal is broken.
+
+1.2 Return Eligibility by Subcategory
+
+1.2.1 Fresh Fruits and Vegetables
+- Eligible for return/replacement within 24 hours if:
+  - Rotten, spoiled, moldy, or overripe upon delivery
+  - Severely bruised, damaged, or crushed
+  - Wrong variety/grade delivered
+  - Quantity mismatch (shortfall exceeding 5% of ordered weight)
+- Not eligible:
+  - Minor blemishes, natural spots, or shape irregularities
+  - Taste preference or sweetness level
+  - Ripeness variation (bananas slightly green, avocados firm) unless specifically ordered ripe
+  - Size variation within the same grade (naturally occurring)
+  - Items that spoiled due to not being refrigerated after delivery
+
+1.2.2 Dairy Products (Milk, Curd, Paneer, Cheese, Butter)
+- Eligible within 24 hours if:
+  - Sour, curdled, or spoiled at delivery
+  - Expired or near-expiry (less than 2 days to expiry for milk, less than 5 days for cheese)
+  - Damaged packaging, leaking, or seal broken
+  - Wrong variant (full cream instead of toned, etc.)
+- Not eligible after 24 hours, even if kept refrigerated.
+
+1.2.3 Meat, Poultry, Fish, and Seafood
+- Eligible within 12 hours (same day) if:
+  - Off-odor, discoloration, or sliminess indicating spoilage
+  - Damaged vacuum seal or leaky packaging
+  - Wrong cut or weight delivered
+- Strictly non-returnable after 12 hours due to food safety regulations.
+- Temperature abuse indicators (if any) should be checked at delivery.
+
+1.2.4 Eggs
+- Eligible within 24 hours if:
+  - Cracked, broken, or leaking
+  - Foul odor upon cracking
+- Individual cracked eggs in a tray: Partial refund for the cracked eggs only.
+- More than 30% eggs cracked: Full tray replacement or refund.
+
+1.2.5 Packaged Foods (Snacks, Biscuits, Grains, Oils, Spices, Ready-to-Eat)
+- Eligible within 7 days if:
+  - Damaged or tampered packaging
+  - Expired product at the time of delivery
+  - Product with less than 1 month to expiry for long-shelf-life items (unless sold as "Short Expiry" clearance)
+  - Infestation (insects, weevils) in sealed packets
+  - Wrong product or variant delivered
+  - Seal broken or missing on sealed jars/bottles
+- Not eligible:
+  - "I don't like the taste"
+  - Opened and consumed partially
+  - Bought by mistake (wrong product selection at checkout by customer)
+
+1.2.6 Beverages (Soft Drinks, Juices, Water, Energy Drinks)
+- Eligible within 7 days if:
+  - Damaged can/bottle, dented cans, leaking
+  - Expired product
+  - Flat or off-taste (for carbonated drinks; requires batch code and time stamp)
+- Single bottles from multi-packs cannot be returned individually unless defective.
+
+1.2.7 Toiletries and Personal Care (Soap, Shampoo, Toothpaste, Deodorant, Sanitary Products)
+- Eligible within 7 days if:
+  - Damaged or leaking packaging
+  - Wrong product delivered
+  - Expired product
+- Not eligible:
+  - Opened packaging (hygiene)
+  - Sanitary napkins, tampons, diapers once packaging opened
+  - Fragrance preference for deodorants, perfumes, soaps
+
+1.2.8 Cleaning Supplies and Household Items
+- Eligible within 7 days if:
+  - Damaged or leaking bottle/packet
+  - Spray nozzle not working
+  - Wrong product delivered
+- Opened cleaning products are non-returnable.
+
+1.3 Weight and Quantity Disputes
+- For weighed items (loose produce, grains, etc.), a tolerance of ±5% is acceptable due to weighing scale variations.
+- Claims for shortfall greater than 5% must be reported with a photograph of the item on a weighing scale.
+- Packaged products with printed weight: If actual weight is less than printed, it is a legal violation. Report immediately.
+
+1.4 Missing Items and Wrong Deliveries
+- Missing items must be reported within 24 hours of delivery.
+- An unboxing video or clear photograph of all delivered items against the invoice is recommended.
+- Verified missing items: Refund for the item value, or replacement delivery (charges waived).
+- Wrong items delivered: The correct item is shipped, and the wrong item is picked up (for non-perishables). For perishable wrong items, the customer may keep/discard the item, and the correct item is sent.
+
+1.5 Quality Check for Returns
+- Perishable returns are not physically picked up in most cases. Photographic evidence and batch codes suffice.
+- The customer is advised to safely discard spoiled perishables after photographic documentation.
+- Non-perishable returns undergo standard quality checks:
+  - Packaging integrity
+  - Seal condition
+  - Expiry date verification
+  - Usage/consumption signs
+
+1.6 Refund Timelines
+- Fresh/perishable items: Refund within 24-48 hours after claim verification.
+- Packaged food and essentials: Refund within 3-5 business days after quality check.
+- Wallet/Store Credit: Instant upon claim approval for perishables.
+- Cash on Delivery: Bank transfer within 5-7 business days.
+
+----------------------------------------------
+SECTION 2: CANCELLATION POLICY
+----------------------------------------------
+
+2.1 Cancellation Window
+- Standard Grocery orders: Cancellation within 15 minutes of order placement or before "Packed" status.
+- Express/Scheduled Delivery orders: Cancellation within 5 minutes of placement due to rapid fulfillment cycles.
+- Bulk/Subscription orders: Cancellation up to 24 hours before scheduled delivery.
+
+2.2 Post-Window Cancellation
+- Once the order is packed and out for delivery, it cannot be cancelled.
+- Perishable orders that have been dispatched cannot be cancelled; the customer must refuse delivery at the doorstep for perishables if cancellation is desired.
+
+----------------------------------------------
+SECTION 3: EXPIRY AND SHELF LIFE POLICY
+----------------------------------------------
+
+3.1 Minimum Shelf Life Commitment
+- Fresh produce: Delivered with reasonable remaining freshness (varies by item; minimum 2-3 days shelf life at proper storage).
+- Dairy: Minimum 2-3 days to expiry for milk, 5-7 days for cheese and butter.
+- Packaged foods: Minimum 30 days to expiry, unless sold as "Short Expiry Clearance" with explicit disclosure.
+- Short Expiry items (less than 30 days to expiry): Clearly marked on the product page and discounted accordingly. Non-returnable except for defects.
+
+3.2 Expired Products at Delivery
+- If any product is already past its expiry date at the time of delivery, it is a critical violation.
+- Report within 24 hours with a clear photo of the expiry date.
+- Full refund plus a goodwill credit (INR 100-200) will be provided.
+- The batch will be flagged and removed from inventory.
+
+----------------------------------------------
+SECTION 4: SHIPPING AND DELIVERY
+----------------------------------------------
+
+4.1 Delivery Timelines
+- Express Grocery Delivery: 90 minutes to 3 hours (select metro pin codes).
+- Standard Grocery Delivery: Same day to next day for metros, 1-2 days for non-metros.
+- Scheduled Delivery: Customer-selected time slots for convenience.
+- Frozen/Chilled items: Delivered in insulated cold chain packaging.
+
+4.2 Delivery Charges
+- Free delivery on grocery orders above INR 499.
+- Below INR 499: Delivery fee of INR 29-49.
+- Express delivery: Additional surge fee during peak hours or adverse weather (INR 15-30).
+- Heavy/bulky items (5kg+ rice bags, oil cans, etc.): Heavy item surcharge may apply.
+
+4.3 Cold Chain and Temperature Integrity
+- Frozen foods, ice creams, and certain dairy items are shipped in thermal packaging with ice packs.
+- If the cold chain is compromised (ice pack melted, product thawed, ice cream melted), the customer can refuse delivery or claim a refund.
+- Temperature-sensitive items should not be left unattended at the doorstep. Customers are requested to be available to receive cold chain deliveries.
+
+4.4 No-Contact Delivery
+- Standard for all grocery orders.
+- Delivery personnel place the order at the doorstep and inform via call/SMS.
+- Inspection time of 15-30 minutes post-delivery is considered acceptable for raising quality issues.
+
+----------------------------------------------
+SECTION 5: SUBSCRIPTIONS AND REPEAT ORDERS
+----------------------------------------------
+
+5.1 Grocery Subscriptions
+- Subscription orders (weekly, bi-weekly, monthly) are auto-generated.
+- Changes to subscription items can be made up to 48 hours before the scheduled delivery date.
+- Subscription orders carry the same return and refund policies as one-time orders.
+- Subscription cancellations: Any time, no penalty.
+
+----------------------------------------------
+SECTION 6: GROCERY & DAILY ESSENTIALS FAQ (30 QUESTIONS)
+----------------------------------------------
+
+Q1: I received rotten tomatoes in my order. What should I do?
+A: Take clear photos of the rotten tomatoes showing the extent of spoilage. Report within 24 hours via the app or website with the photos. A refund for the tomato value will be issued within 24-48 hours. You do not need to return the rotten produce. Please discard it safely.
+
+Q2: The milk I ordered smells sour even though the packet says it should be fresh. Can I get a refund?
+A: Yes. If milk smells or tastes sour upon opening despite being within the expiry date, it likely suffered a cold chain break. Report within 24 hours with a photo of the packet showing the batch code and expiry date. Refund will be processed. Do not consume spoiled milk.
+
+Q3: I ordered 1 kg of apples, but they only sent 850 grams. What can I do?
+A: Weigh the apples on a kitchen scale and photograph the reading. Report the shortfall within 24 hours. For a shortfall beyond the 5% tolerance (50g for a 1 kg order), we will refund the proportionate amount. If the shortfall is significant, a full item refund may apply.
+
+Q4: My egg tray arrived with 3 cracked eggs out of 12. What is the resolution?
+A: Photograph the tray showing the cracked eggs. Report within 24 hours. Since less than 30% are damaged, we will refund the value of 3 eggs (25% of the tray price). If 4 or more eggs are cracked (more than 30%), the entire tray will be refunded or replaced.
+
+Q5: Can I return a packet of chips if I don't like the new flavor?
+A: No. Opened food products cannot be returned for taste preferences. We recommend buying a single pack to try a new flavor before committing to multipacks.
+
+Q6: I received a bottle of cooking oil with a broken seal and leakage. The box is oily. What do I do?
+A: Do not use the oil. Photograph the leaking bottle, the oily box, and the broken seal. Report within 24 hours. A full refund or replacement will be provided. You may need to keep the damaged bottle for pickup or dispose of it after photographic documentation as per the support team's advice.
+
+Q7: The bread I ordered is already hard and seems stale. It expires tomorrow. Is this acceptable?
+A: Bread should have at least 2 days to expiry at delivery. If it is hard and expiring tomorrow, report within 24 hours with photos. A refund will be processed. Fresh bread should be soft; staleness indicates it was not fresh at dispatch.
+
+Q8: I bought a jar of peanut butter, and the safety seal pops up when I open it. Is it safe?
+A: The "pop" of a safety seal is normal and indicates a proper vacuum seal. If the seal was already popped up (concave/convex change) before you opened it, or if the seal is missing, the product may have been tampered with. Do not consume. Report with photos. Refund or replacement will be provided.
+
+Q9: Can I return fresh chicken if it has a slight odor?
+A: Fresh raw chicken has a very mild odor. A strong, unpleasant, sulfur-like, or ammonia-like odor indicates spoilage. If you detect an off-odor, photograph the packaging showing the use-by date and report within 12 hours. A full refund will be processed. Do not consume spoiled meat.
+
+Q10: I received atta (wheat flour) that has insects inside the sealed packet. What should I do?
+A: This is a serious quality issue. Do not use the flour. Photograph the sealed packet showing the insects and the batch code. Report within 7 days. A full refund plus a goodwill credit will be provided. The batch will be pulled from inventory for investigation.
+
+Q11: My frozen pizza arrived slightly thawed. The ice pack had melted. Is it still safe?
+A: If the product is still cool to the touch but not frozen solid, it may be safe if consumed immediately (refreeze at your own discretion). If fully thawed and at room temperature, it is unsafe. Report within 24 hours. Photograph the melted ice pack and product condition. Refund will be issued for compromised items.
+
+Q12: Can I return a half-used bottle of floor cleaner because it doesn't clean well?
+A: No. Opened and used cleaning products cannot be returned based on performance dissatisfaction. Product efficacy depends on usage method, dilution, surface type, etc.
+
+Q13: I ordered basmati rice, but the delivered rice looks like regular sona masoori. What do I do?
+A: If you believe the wrong rice variety was delivered, photograph the grains clearly (dry, uncooked) alongside the package label. Report within 7 days. If verified as a wrong product, a replacement with the correct basmati rice will be shipped, and the wrong product picked up.
+
+Q14: The chocolate bar I ordered arrived completely melted. Can I get a refund?
+A: Yes. Chocolates that melt during transit (especially in summer) are eligible for refund. Photograph the melted product. Report within 24 hours. We recommend ordering chocolates during cooler months or opting for insulated packaging when available.
+
+Q15: I received a different brand of toothpaste than what I ordered. Can I keep it and get a refund?
+A: Report "Wrong Product Delivered" within 7 days. The correct toothpaste will be shipped. For low-value items like toothpaste, the support team may allow you to keep the wrong product as a goodwill gesture while also shipping the correct one or refunding. This is decided case by case.
+
+Q16: The paneer I ordered has a sour taste even though it's within expiry. Is it spoiled?
+A: Sour taste in paneer indicates spoilage, likely due to cold chain failure. Do not consume. Report within 24 hours with a photo of the packet and the batch/expiry details. A full refund will be processed.
+
+Q17: Can I return an open bag of sugar because it has lumps?
+A: Sugar lumps form due to moisture exposure. If the bag was sealed and lumps are present, it indicates a packaging or storage defect. Report within 7 days with photos. If the bag was opened by you and left exposed to humidity, it is not returnable.
+
+Q18: I ordered Coke but received Pepsi. What is the process?
+A: Report "Wrong Product" within 7 days with a photo of the delivered cans/bottles. The correct product will be delivered, and the wrong one picked up. For beverages, if the value is low, we may simply refund and let you keep the product.
+
+Q19: The delivery person left my grocery order outside, and some items are missing. Who is responsible?
+A: If the order was left unattended without your consent, contact support immediately. Verified missing items will be refunded or replaced. For future orders, you can specify delivery instructions ("Do not leave unattended") or opt for "Handover Only" delivery.
+
+Q20: My baby formula tin arrived with a dent and the seal seems loose. Can I return it?
+A: Yes. Damaged packaging on baby food is a serious safety concern. Do not use the product. Photograph the dent and seal condition. Report within 24 hours. A replacement will be shipped with priority. Baby food returns for packaging defects are processed without question.
+
+Q21: Can I return a watermelon that looked good outside but is white and unripe inside?
+A: Yes, this is a legitimate quality issue. Photograph the cut watermelon showing the unripe, white flesh. Report within 24 hours. A refund for the watermelon will be issued. This is a known challenge with whole watermelons, and we honor valid claims.
+
+Q22: I bought a multi-pack of noodles. One packet inside is torn. Can I return just that one?
+A: Report the damaged packet with photos. We will refund the proportionate value of the single damaged packet. The rest of the multi-pack is fine to keep and use.
+
+Q23: The ice cream I ordered arrived as a liquid puddle. What should I do?
+A: Do not refreeze melted ice cream. Photograph the melted product and the condition of the thermal packaging/ice packs. Report within 24 hours. A full refund will be processed. This is a cold chain failure, and we take it seriously.
+
+Q24: Can I return a bag of onions if they start sprouting 4 days after delivery?
+A: No. The return window for fresh produce is 24 hours. If the onions were fresh at delivery and sprouted 4 days later due to storage conditions, it is not covered. Store onions in a cool, dry, dark place to prolong shelf life.
+
+Q25: I received diet cola when I ordered regular cola. The cans look very similar. Can I exchange?
+A: Yes, this is a wrong product delivery. Report within 7 days with a photo showing the "Diet" label. A replacement with the regular version will be shipped. Always check product labels upon delivery.
+
+Q26: What is the policy for organic produce that doesn't look "perfect"?
+A: Organic produce naturally has more blemishes, irregular shapes, and color variations compared to conventionally grown produce. This is normal and not a defect. Our organic produce policy includes an information note about this. Only genuine spoilage or damage is covered.
+
+Q27: My paneer packet had excess water, and the paneer block is much smaller than expected. Is this normal?
+A: Some liquid in paneer packaging is normal for freshness. However, if the drained weight is significantly less than the stated net weight, weigh the drained paneer and photograph the scale. Report within 24 hours. If shortfall is confirmed, a refund will be issued.
+
+Q28: Can I return a cleaning spray bottle if the trigger spray mechanism doesn't work?
+A: Yes. A non-functional spray mechanism is a manufacturing defect. Report within 7 days with a video showing the trigger not spraying. A replacement or refund will be provided. Do not try to force or dismantle the mechanism.
+
+Q29: I ordered 2 liters of juice, but the bottle shows 1.5 liters. The invoice says 2L. What happened?
+A: Photograph the bottle clearly showing the 1.5L label and the invoice showing 2L. Report within 7 days. This is a "Wrong Product/Wrong Variant" error. The correct 2L bottle will be shipped, or a full refund issued plus the price difference refunded if you choose to keep the 1.5L.
+
+Q30: Can I set a standing instruction for my grocery delivery person to not ring the doorbell during my baby's nap time?
+A: Yes. Use the "Delivery Instructions" field during checkout or in your account settings. You can specify "Do not ring doorbell — call on arrival" or "Leave at door — do not knock." These instructions are printed on the delivery label and communicated to the delivery partner.
+
+----------------------------------------------
+END OF DOCUMENT: GROCERY & DAILY ESSENTIALS
+==============================================

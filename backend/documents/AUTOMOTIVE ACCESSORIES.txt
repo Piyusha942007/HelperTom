@@ -1,0 +1,202 @@
+============================================
+CATEGORY: AUTOMOTIVE ACCESSORIES
+POLICIES & FAQ
+HelperTom E-Commerce Platform
+============================================
+
+----------------------------------------------
+SECTION 1: RETURNS & REFUND POLICY
+----------------------------------------------
+
+1.1 Return Window
+- Car Electronics (Dashcams, Infotainment Systems, GPS Navigators, Parking Sensors): 7 days from delivery (Replacement Only for defects).
+- Car Care and Cleaning Products: 7 days (unopened products only).
+- Oils, Lubricants, and Fluids: Non-returnable once seal is broken. Unopened returnable within 7 days.
+- Tyres and Wheels: Non-returnable once mounted or driven on. Unmounted, unused tyres returnable within 7 days.
+- Batteries: 7 days (Replacement Only for defects). Used batteries non-returnable.
+- Seat Covers, Cushions, and Interior Accessories: 7 days (unused, uninstalled).
+- Exterior Accessories (Sun Shades, Body Covers, Chrome Accents, Stickers): 7 days.
+- Helmets and Riding Gear: 7 days (unused, with tags).
+- Car Fresheners and Perfumes: Non-returnable once opened.
+- Performance Parts and Modifications: 7 days (unused, uninstalled).
+- Tools and Emergency Kits: 7 days.
+- Motorcycle Accessories: 7 days.
+
+1.2 Condition for Returns
+- Car Electronics: Must be in original packaging with all accessories, wiring harnesses, mounts, and manuals. Devices that have been hardwired into the vehicle's electrical system are non-returnable due to installation modifications (wire cuts, splices).
+- Oils and Fluids: Must be completely unopened with factory seal intact. Opened bottles are non-returnable due to contamination risk.
+- Tyres: Must be unmounted, unused, with all original labels and stickers intact. Tyres that have been mounted on a rim (even without driving) show bead marks and are non-returnable. DOT manufacturing date must match the dispatch record.
+- Batteries: Must be unused, with terminal caps intact. Batteries that have been installed, filled with acid (for non-maintenance-free types), or connected are non-returnable.
+- Seat Covers: Must be unopened or test-fitted without full installation. Fully installed seat covers that have been sat on are non-returnable.
+- Helmets: Must be unworn, with all tags, protective films on visor, and original packaging. Helmets that have been worn (interior compression, sweat marks, scuffs) are non-returnable for safety and hygiene reasons.
+- Body Covers: Must be test-fitted only, not used outdoors. Dirt, bird droppings, or outdoor grime make them non-returnable.
+
+1.3 Compatibility and Fitment
+- It is the customer's responsibility to verify vehicle compatibility before ordering.
+- Each product page includes compatibility information (vehicle make, model, year, variant).
+- Products returned due to incompatibility (even if unopened) are accepted within 7 days, but return shipping charges may apply. The compatibility information was available at the time of purchase.
+- Exception: If the product page had incorrect compatibility information (says it fits, but doesn't), it is treated as a listing error and return shipping is free.
+
+1.4 Defective Product Policy
+- Defects covered:
+  - Car electronics that don't power on, have screen defects, or malfunction
+  - Dashcams with blurry video, recording failures, or sensor defects
+  - GPS navigators with GPS lock failure, map corruption, or battery failure
+  - Tyres with manufacturing defects: bulges, uneven tread, vibration (when balanced)
+  - Batteries that don't hold charge, have dead cells, or show zero voltage
+  - Seat covers with stitching defects, tearing, or poor fit for the listed vehicle model
+  - Helmets with compromised shell integrity, loose visor mechanism, or defective strap buckle
+  - Performance parts with machining defects or fitment issues
+  - Car perfumes that have leaked or are dried out upon arrival
+  - Any product received with physical damage: dents, cracks, broken parts
+
+- Defects NOT covered:
+  - Tyre wear from driving, punctures, cuts, or impact breaks (pothole damage)
+  - Battery discharge from leaving lights/accessories on (user error)
+  - Electronics damaged by improper installation, reverse polarity, or power surges
+  - Fading of exterior accessories from sun exposure
+  - Car covers torn by wind or sharp objects during use
+  - Helmet damage from a fall or impact (replace any impacted helmet, do not return)
+  - Normal wear and tear on wiper blades, brake pads, and other consumables
+  - Rattles or vibrations from accessories not secured properly after installation
+
+1.5 Refund Timelines
+- Defect returns (confirmed): Replacement in 5-7 business days, or refund in 7-10 business days if replacement unavailable.
+- Change-of-mind returns (compatible items, unopened): 5-7 business days after quality check, minus any applicable return shipping.
+
+----------------------------------------------
+SECTION 2: WARRANTY POLICY
+----------------------------------------------
+
+2.1 Warranty Coverage
+- Car Electronics: 1 year manufacturer warranty (typical).
+- Tyres: 5 years from date of manufacture (warranty against manufacturing defects, not wear).
+- Batteries: 1-5 years depending on brand and type (pro-rata warranty common).
+- Performance Parts: Varies by manufacturer; specified on product page.
+- Warranty claims after the return window are handled directly with the brand or via HelperTom if "HelperTom Warranty" is specified.
+
+2.2 Installation Requirements
+- Professional installation is strongly recommended for all car electronics, batteries, tyres, and performance parts.
+- Damage caused by self-installation or unprofessional installation voids the return/warranty.
+- For tyres, we recommend installation at a professional tyre shop with proper balancing equipment.
+
+----------------------------------------------
+SECTION 3: CANCELLATION POLICY
+----------------------------------------------
+
+3.1 Cancellation Window
+- Standard accessories: 30 minutes or before packing.
+- Tyres, batteries, and large items: 1 hour or before dispatch.
+- Custom-fit items (specific vehicle seat covers, custom floor mats): Non-cancellable once production/cutting begins.
+
+----------------------------------------------
+SECTION 4: SHIPPING AND DELIVERY
+----------------------------------------------
+
+4.1 Delivery Timelines
+- Accessories: 2-5 business days.
+- Tyres and Batteries: 5-10 business days.
+- Bulky items: 5-10 business days.
+
+4.2 Shipping Charges
+- Free shipping on orders above INR 999.
+- Below INR 999: Calculated at checkout based on weight.
+- Tyres and batteries: Free shipping on sets of 4 tyres or premium batteries; otherwise shipping charges apply.
+
+----------------------------------------------
+SECTION 5: AUTOMOTIVE ACCESSORIES FAQ (30 QUESTIONS)
+----------------------------------------------
+
+Q1: I bought a dashcam, but it keeps restarting every few minutes. I've tried different memory cards. Is it defective?
+A: A dashcam that constantly restarts is likely defective (power supply issue, overheating, or firmware crash). Ensure you're using the recommended class of memory card (Class 10/UHS-I or higher). If the issue persists, report within 7 days with a video showing the restarting behavior. A replacement will be shipped.
+
+Q2: Can I return a car body cover that I put on my car once and found it's too loose even though I ordered the right size?
+A: Once used outdoors, body covers collect dust and grime, making them non-returnable. Test-fit the cover indoors first. If the cover is the correct size per the listing but fits loosely, it's a design issue, not a defect. Return within 7 days ONLY if unused and clean. Compatibility claims are reviewed case by case.
+
+Q3: I ordered a set of 4 tyres. After mounting and balancing, one tyre has a noticeable vibration at highway speeds. What should I do?
+A: Tyre vibration after mounting can be due to improper balancing, a bent rim, or a manufacturing defect (shifted belt, out-of-round tyre). First, return to the tyre shop for a re-balance check. If the vibration persists and the technician identifies it as a tyre defect, report within 7 days with the technician's findings. A replacement tyre will be provided.
+
+Q4: My car battery arrived with a cracked case. The delivery box looked okay. Can I get a replacement?
+A: Yes. Photograph the cracked battery case immediately and report within 48 hours. Do not attempt to install or charge a cracked battery — acid leakage is hazardous. A replacement battery will be shipped. Damaged batteries are a safety priority.
+
+Q5: Can I return an opened bottle of car shampoo because I don't like the foam level?
+A: No. Opened car care chemicals are non-returnable. Foam level depends on dilution ratio, water hardness, and application method. Product descriptions indicate the type of cleaner; performance preferences are subjective.
+
+Q6: I bought a phone mount for my car's AC vent. It doesn't grip my vent style and keeps falling off. Is this returnable?
+A: If the mount is incompatible with your specific vent type (e.g., vertical vs. horizontal slats, recessed vents), and this limitation wasn't clear on the product page, report within 7 days. If the product page showed compatibility or warned about certain vent types, it's a compatibility choice. Uninstalled mounts can be returned. Test before removing all packaging.
+
+Q7: My new helmet's visor fogs up immediately. The product was advertised as "anti-fog." Is this a defect?
+A: True anti-fog visors have a special coating (usually Pinlock or similar). If the visor is labeled as anti-fog and fogs up immediately under normal conditions, the coating may be defective or absent. Report within 7 days with a video. A replacement visor or helmet will be provided. Note: "Anti-fog" sprays and inserts are different from coated visors.
+
+Q8: I installed new seat covers, and the stitching on the driver's seat is already coming undone after a week. Is this covered?
+A: Yes. Stitching failure after minimal use is a manufacturing defect. Report within 7 days with photos of the unraveling stitching. A replacement seat cover set will be provided. Do not attempt to repair it yourself, as this voids the return.
+
+Q9: Can I return a GPS navigator if the maps are outdated and don't show new roads in my area?
+A: GPS navigator map versions are listed on the product page. If the map version you received matches what was advertised, outdated maps are not a defect. Map updates are typically available from the manufacturer (some offer free lifetime updates; check the product features). If the product promised "latest maps" and they are several years old, report as a misrepresentation.
+
+Q10: I bought an LED headlight conversion kit. After installation, the light pattern is scattered and blinds oncoming traffic. Is it defective?
+A: LED conversions in reflector housings designed for halogen bulbs often cause glare and scattered beam patterns. This is a compatibility/design limitation, not a defect of the LED bulbs themselves. If the product page indicated compatibility with your specific vehicle's headlight type (reflector vs. projector) and it still fails, report. Installed electrical items are generally non-returnable.
+
+Q11: My car vacuum cleaner has very weak suction. It barely picks up crumbs. Is this a defect?
+A: Check that the filter is clean (new vacuums shouldn't have clogged filters) and the dust compartment is empty. 12V car vacuums inherently have less power than household vacuums. If the suction is significantly weaker than what's shown in product demonstrations, report within 7 days with a video. A replacement will be shipped.
+
+Q12: I ordered alloy wheel cleaner, but the bottle leaked during shipping. The package smells of chemicals. What do I do?
+A: Photograph the leaking bottle and the damaged packaging. Report within 48 hours. Do not handle leaking chemicals without gloves. A replacement will be shipped. We may advise on safe disposal of the damaged product.
+
+Q13: Can I return a car cover that's the right size per the chart, but doesn't cover my aftermarket rear spoiler?
+A: Car covers are designed for stock vehicle dimensions. An aftermarket spoiler changes the vehicle's dimensions, and the cover not fitting perfectly is not a defect. This is a modification compatibility issue. Always check if the cover accommodates spoilers/bull bars if your car is modified.
+
+Q14: My parking sensor kit gives false beeps constantly, even when there's nothing behind me. Is it defective?
+A: False alerts can be caused by dirt/ice on sensors, incorrectly angled sensors, or interference. Ensure sensors are clean and properly installed (facing straight, not angled toward the ground). If false alerts persist on a clean, properly installed system, report within 7 days. A replacement control module or sensor set will be provided.
+
+Q15: I bought a motorcycle chain lube spray. The nozzle is broken and won't spray. Can I return it?
+A: Yes, a non-functional spray nozzle on a new aerosol can is a defect. Do not attempt to puncture or modify the can. Report within 7 days with a video showing the broken nozzle. A replacement will be shipped. Aerosol malfunctions are taken seriously due to the pressurized contents.
+
+Q16: My steering wheel cover is extremely difficult to install. I'm afraid I'll damage my steering wheel. Can I return it?
+A: Some steering wheel covers require significant stretching and warming (sunlight or warm water) for installation. If it's the correct size but you find installation too difficult, return it within 7 days ONLY if uninstalled and in original condition. Once stretched or partially installed, it may not return to its original shape and may be rejected.
+
+Q17: I ordered a specific OBD2 scanner for my car, but it doesn't connect to my car's ECU. The car is compatible per the listing. What now?
+A: Ensure the ignition is ON (engine off for some protocols), the scanner is fully inserted, and your phone's Bluetooth/Wi-Fi is properly paired. If it still doesn't connect, report within 7 days with a video showing the connection failure. The scanner may be defective, or your car may have a non-standard OBD2 implementation. A replacement or refund will be provided.
+
+Q18: Can I return a car air freshener if the scent is too strong and gives me a headache?
+A: No. Opened car air fresheners are non-returnable. Scent intensity is subjective. Vent clips with adjustable intensity are recommended if you're sensitive to fragrances. In an enclosed car space, even mild scents can feel strong.
+
+Q19: My new wiper blades are leaving streaks and making a chattering noise on the windshield. Are they defective?
+A: First, clean the windshield thoroughly (road grime, oil, and wax cause streaking and chatter) and clean the wiper blades with a damp cloth. If chattering and streaking persist after cleaning on a wet windshield, the blades may be defective (hardened rubber) or the wrong size. Report within 7 days with a video. Replacement blades will be provided.
+
+Q20: I bought a car battery, and it's completely dead — shows 0 volts on my multimeter. Is it DOA?
+A: Yes, a new battery reading 0V is Dead on Arrival (completely discharged or internal break). Report within 7 days. Do not attempt to jump-start or charge a deeply discharged battery; it can be dangerous. A replacement battery will be shipped.
+
+Q21: Can I return a car perfume that I bought in the wrong variant (vent clip instead of hanging)?
+A: Yes, if the product is completely unopened in its original packaging. The variant type is clearly labeled and pictured. Returns for ordering errors are accepted for unopened products within 7 days. Opened products are non-returnable.
+
+Q22: My car's sunshade doesn't fit my windshield. The listing said "universal fit." Is this a valid return reason?
+A: "Universal fit" sunshades come in size ranges (S, M, L, XL). If you ordered the size recommended for your vehicle type (e.g., sedan, SUV) and it's significantly too small or large, report with photos showing the size mismatch. If the size is clearly wrong for the listed vehicle type, it's a product description error and eligible for return.
+
+Q23: I bought a tyre inflator pump. It runs, but the pressure gauge is stuck and doesn't show the correct reading. Is it defective?
+A: Yes. A non-functional pressure gauge makes the pump unusable (over/under-inflation risk). Report within 7 days with a video showing the stuck gauge. A replacement pump will be shipped.
+
+Q24: My car's new floor mats have a strong rubber smell that's making the whole car smell. Is this normal?
+A: A strong rubber/chemical odor from new floor mats (especially rubber or PVC mats) is normal off-gassing. Air the mats outside the car for 24-48 hours before installation. The smell dissipates over time. This is not a defect. If the smell persists intolerably after a week of airing out, report for evaluation.
+
+Q25: I installed a chrome door handle cover, and it flew off on the highway. Can I return it?
+A: Loss of an installed accessory during driving is typically an adhesion/installation issue, not a product defect. Ensure the surface was cleaned with alcohol wipes (provided) and the tape was properly applied and cured for 24 hours before driving. Installed and lost accessories are not returnable.
+
+Q26: My dashcam's parking mode doesn't work. I wired it according to the instructions. What could be wrong?
+A: Parking mode requires a constant power source (hardwired to a fuse that's always live). If connected to a switched fuse (only powered with ignition on), parking mode won't work. Check the fuse connection. If hardwired correctly and parking mode still doesn't activate, report within 7 days. The dashcam or hardwire kit may be defective.
+
+Q27: Can I return a high-performance air filter if I don't notice any performance gain?
+A: Performance gains from air filters are often subtle and may not be perceptible in normal driving. This is not a defect. If the filter was installed and used, it's non-returnable. Dyno-proven claims vs. butt-dyno feelings differ. Research realistic expectations before purchasing.
+
+Q28: My motorcycle's new LED tail light works, but it's dimmer than the stock bulb. Is it defective?
+A: LED brightness depends on the number and quality of LEDs. If the product's lumen output is specified and it's significantly dimmer, it may be defective. Note that some LEDs are directional, and the housing's reflector design affects perceived brightness. Report within 7 days if brightness is clearly below specifications.
+
+Q29: I bought a tyre repair kit. The rubber strips are dried out and brittle right out of the package. Are they usable?
+A: No. Dried-out rubber strips are defective (old stock or poor storage). Do not use them for tyre repairs as they won't seal properly. Report within 7 days with a photo. A replacement kit will be shipped.
+
+Q30: I ordered a specific car model's touchscreen infotainment system. My trusted installer says the wiring harness doesn't match my car's connectors. What now?
+A: Photograph the mismatched harness connectors and your car's factory connectors. Report within 7 days. If the harness is incorrect for the listed vehicle model, it's a product error. A replacement with the correct harness or a full return will be provided. Do not cut or splice wires, as this voids the return.
+
+----------------------------------------------
+END OF DOCUMENT: AUTOMOTIVE ACCESSORIES
+==============================================
