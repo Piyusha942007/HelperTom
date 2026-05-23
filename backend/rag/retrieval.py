@@ -1,24 +1,20 @@
-import chromadb
-from sentence_transformers import SentenceTransformer
-
-# Load embedding model
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-
-# Connect to ChromaDB
-client = chromadb.PersistentClient(path="./chroma_db")
-
-collection = client.get_collection("company_policies")
+from embeddings import embedding_model
+from vectorstore import collection
 
 
-def retrieve_context(query, top_k=3):
-    # Convert query into embedding
-    query_embedding = embedding_model.encode(query).tolist()
+def retrieve_context(query, top_k=5):
 
-    # Search in ChromaDB
+    query_embedding = embedding_model.encode(
+        query
+    ).tolist()
+
     results = collection.query(
         query_embeddings=[query_embedding],
         n_results=top_k
     )
+
+    if not results["documents"]:
+        return []
 
     documents = results["documents"][0]
     metadatas = results["metadatas"][0]
@@ -26,10 +22,13 @@ def retrieve_context(query, top_k=3):
 
     retrieved_chunks = []
 
-    for doc, meta, distance in zip(documents, metadatas, distances):
+    for doc, meta, distance in zip(
+        documents,
+        metadatas,
+        distances
+    ):
 
-        # Lower distance = better match
-        if distance > 1.2:
+        if distance > 1.3:
             continue
 
         retrieved_chunks.append({

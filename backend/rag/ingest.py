@@ -1,48 +1,56 @@
 import os
-import chromadb
 
-from sentence_transformers import SentenceTransformer
 from chunking import chunk_text
+from loaders import load_txt, load_pdf
+from embeddings import embedding_model
+from vectorstore import collection
 
-# Load embedding model
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-
-# Persistent ChromaDB
-client = chromadb.PersistentClient(path="./chroma_db")
-
-collection = client.get_or_create_collection(
-    name="company_policies"
-)
-
-# Documents folder
 documents_path = "documents"
 
-# Read ALL txt files
+SUPPORTED_EXTENSIONS = [".txt", ".pdf"]
+
+
 for filename in os.listdir(documents_path):
 
-    if filename.endswith(".txt"):
+    file_path = os.path.join(
+        documents_path,
+        filename
+    )
 
-        file_path = os.path.join(documents_path, filename)
+    extension = os.path.splitext(filename)[1]
 
-        print(f"\nProcessing: {filename}")
+    if extension not in SUPPORTED_EXTENSIONS:
+        continue
 
-        with open(file_path, "r", encoding="utf-8") as file:
-            text = file.read()
+    print(f"\nProcessing: {filename}")
 
-        # Chunk text
-        chunks = chunk_text(text)
+    # ---- LOAD FILE ----
+    if extension == ".txt":
+        text = load_txt(file_path)
 
-        for i, chunk in enumerate(chunks):
+    elif extension == ".pdf":
+        text = load_pdf(file_path)
 
-            embedding = embedding_model.encode(chunk).tolist()
+    else:
+        continue
 
-            collection.add(
-                ids=[f"{filename}_{i}"],
-                embeddings=[embedding],
-                documents=[chunk],
-                metadatas=[{
-                    "source": filename
-                }]
-            )
+    # ---- CHUNK ----
+    chunks = chunk_text(text)
 
-print("\nALL DOCUMENTS INGESTED SUCCESSFULLY")
+    # ---- EMBEDDINGS ----
+    embeddings = embedding_model.encode(chunks)
+
+    # ---- STORE ----
+    for i, chunk in enumerate(chunks):
+
+        collection.add(
+            ids=[f"{filename}_{i}"],
+            embeddings=[embeddings[i].tolist()],
+            documents=[chunk],
+            metadatas=[{
+                "source": filename,
+                "file_type": extension
+            }]
+        )
+
+print("\nALL DOCUMENTS INGESTED SUCCESSFULLY 🚀")
