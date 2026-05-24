@@ -1,6 +1,36 @@
-import { TrendingUp, Users, FileText, Bot, AlertCircle, MessageSquare } from 'lucide-react';
+import { TrendingUp, Users, FileText, Bot, AlertCircle, MessageSquare, Loader2 } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { analyticsService } from '../services/analyticsService';
 
 export function Dashboard() {
+  const [data, setData] = useState(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function loadData() {
+      try {
+        const res = await analyticsService.getDashboardAnalytics();
+        setData(res);
+      } catch (err) {
+        console.error(err);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadData();
+  }, []);
+
+  if (loading || !data) {
+    return (
+      <div className="h-full flex items-center justify-center text-slate-400">
+        <Loader2 size={32} className="animate-spin text-violet-400 mr-2" />
+        <span>Loading Admin Panel...</span>
+      </div>
+    );
+  }
+
+  const { stats } = data;
+
   return (
     <div className="h-full flex flex-col gap-6">
       <div>
@@ -10,11 +40,12 @@ export function Dashboard() {
 
       {/* Stats Grid */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-        <StatCard icon={MessageSquare} label="AI Conversations" value="1,248" trend="+12.5%" />
-        <StatCard icon={TrendingUp} label="Automated Sales" value="$14,500" trend="+8.2%" />
-        <StatCard icon={Users} label="Human Escalations" value="24" trend="-3.1%" trendDown />
-        <StatCard icon={Bot} label="AI Accuracy" value="98.2%" trend="+1.1%" />
+        <StatCard icon={MessageSquare} label="AI Conversations" value={stats.totalConversations} trend="+12.5%" />
+        <StatCard icon={FileText} label="Ingested Documents" value={stats.documentsUploaded} trend="Active" />
+        <StatCard icon={Users} label="Response Time" value={stats.avgResponseTime} trend="-0.4s" />
+        <StatCard icon={Bot} label="AI Accuracy" value={stats.resolutionRate} trend="+1.1%" />
       </div>
+
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 flex-1">
         {/* Placeholder: AI Training Status */}

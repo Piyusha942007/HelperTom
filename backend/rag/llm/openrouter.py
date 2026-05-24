@@ -2,7 +2,10 @@ import requests
 import os
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path=".env")
+# Load environment variables absolutely
+backend_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+env_path = os.path.join(backend_dir, ".env")
+load_dotenv(dotenv_path=env_path)
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
